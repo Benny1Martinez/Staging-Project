@@ -1,4 +1,4 @@
-### Hi there Here are some ideas to get you started:
+### Hi there 
 I'm refresshing my coding skills and researching for a Capstone project for Divergence bootcamp.  I'm learning Python, PowerBI, SQL, Azure, R, Github, and more in order to present clear information that might provide insight into my capabilities as a Data Scientist.
 
 My pronouns are They/El/Ella.
